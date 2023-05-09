@@ -17,6 +17,9 @@ protocol ___VARIABLE_productName___PresenterProtocol: AnyObject {
     var router: ___VARIABLE_productName___RouterProtocol? {get set}
     var interactor: ___VARIABLE_productName___InteractorProtocol? {get set}
     var view: ___VARIABLE_productName___ViewProtocol? {get set}
+    
+    // View -> Presenter
+    // Interactor -> Presenter
 }
 
 // MARK: Router

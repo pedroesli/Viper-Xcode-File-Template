@@ -18,3 +18,5 @@ All the Xcode custom template files are located in `~/Library/Developer/Xcode/Te
 Then in `Custom` folder add `VIPER.xctemplate` folder and that's it. 
 
 In Xcode, when you add a new file, you'll be able to use the file template in the custom section like so:
+
+![preview](/preview.png)
